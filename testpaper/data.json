@@ -1,0 +1,255 @@
+{
+  
+   "awscourse":[ 
+    {
+          "title":"AWS Interview Questions ",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/26)+Interview+Questions.pdf ",
+          "description":"(AWS Solved and Unsolved Questions)"
+    },
+	{
+      "title": "AWS SA Associate Dumps-1",
+      "fileurl": "https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/AWS+exam+dumps-1.pdf",
+	  "description": "(Global Exam Dumps paper)"
+    },
+	    {
+          "title":"AWs Introduction test Paper ",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/AWS+Multiple+choice+Question+Set-1.pdf",
+          "description":"(Basic Cloud and AWS)"
+    },
+     {
+      "title": "Devops+AWS+Linux ",
+      "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/Devops+%2B+Linux+Interview+Questions.pdf",
+	  "description": "(Mixed Interview Questions)"
+    },
+    {
+      "title": "Kubernetes Interview Questions ",
+      "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/testpaper/Kubernete+Interview+Questions.pdf",
+          "description": "(Begineers, Intermediate, Advanced)"
+    },
+    {
+      "title": "Docker Interview Questions ",
+      "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/testpaper/Docker+Interview+Questions.pdf",
+          "description": "(Begineers, Intermediate, Advanced)"
+    },
+
+     {
+      "title": "Azure Intro ",
+      "fileurl": "https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/azure/Azure+Test+paer-1(+CC+and+Azure+Intro).pdf",
+      "description": "(Basic Test Paper)"
+    },
+     {
+      "title": "IP Address",
+      "fileurl": "https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/IP+address+test(MCQ).pdf ",
+      "description":"(IP Addressing test Paper)"
+    },
+     {
+      "title": "Hardware(A+) Test Paper",
+      "fileurl": "https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/testpaper/A%2B+test.pdf",
+      "description": "(Comptia A+)"
+    },
+      {
+          "title":"CCNA",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/testpaper/CCNA+Interview+Questions(+Chapter+wise).pdf",
+          "description":"(CCNA All topics Questions)"
+    },
+       
+      {
+          "title":"Linux Test paper-1",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/testpaper/Linux+Test+Paper+-Basic.pdf",
+          "description":"(Basic Commands only)"
+    },
+        {
+          "title":"Linux Test paper-2",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/testpaper/Linux+Test+paper+mixed.pdf",
+          "description":"(Mixed Topics)"
+    },    
+        {
+          "title":"AWS SA Professsional Dumps paper",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-prof/AWS+SA+Prof.+Dumps.pdf",
+          "description":"(AWS SA professional)"
+    },  
+          {
+          "title":"Upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/17)Dynamodb.pdf",
+          "description":"(Upcoming)"
+    }, 
+            {
+          "title":"Upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/15)VPC.pdf",
+          "description":"(Upcoming)"
+    },  
+          {
+          "title":"Upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/20)Cloudfront.pdf",
+          "description":"(Elastic Encoder)"
+    },  
+          {
+          "title":"Upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/22)Route53.pdf",
+          "description":"(Upcoming)"
+    },   
+            {
+          "title":"Upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/12)Cloudwatch.pdf",
+          "description":"(Upcoming)"
+    },   
+          {
+          "title":"Upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/19)Cloudformation.pdf",
+          "description":"(Upcoming)"
+    },   
+        {
+          "title":"Upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/09)IAM.pdf",
+          "description":"(Upcoming)"
+    },   
+          {
+          "title":"upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/13)SNS.pdf",
+          "description":"(upcoming)"
+    },
+	    {
+          "title":"upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/18)Lambda.pdf",
+          "description":"(upcoming)"
+    },
+	    {
+          "title":"upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/11)Lightsail.pdf",
+          "description":"(upcoming)"
+    },
+          {
+          "title":"upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/21)SQS.pdf",
+          "description":"(upcoming)"
+    },  
+        {
+          "title":"Upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/23)Shell-Script.pdf",
+          "description":"(upcoming)"
+    },   
+        {
+          "title":"upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/25)AWS-CLI.pdf",
+          "description":"(upcoming)"
+    }, 
+        {
+          "title":"upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/24)Practice-Set.pdf",
+          "description":"(upcoming)"
+    },
+      {
+          "title":"upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/azure/IP+Address.pdf",
+          "description":"(upcoming)"
+    },
+	  {
+          "title":"upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/IP+address+test(MCQ).pdf",
+          "description":"(upcoming)"
+    },
+	  {
+          "title":"Dumps paper-1",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/AWS+Multiple+choice+Question+Set-1.pdf",
+          "description":"(Dumps paper-1)"
+    },   
+	{
+          "title":"Upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/AWS+exam+dumps-1.pdf",
+          "description":"(Upcoming)"
+    } 
+    
+    ],
+
+    "awsvideos":[
+            {
+                "title":"Devops Introduction",
+                "videourl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/01)Devops-Introduction.mp4"
+            },
+            {
+                "title":"Aws Introduction",
+                "videourl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/training-video/aws-sa-associate/AWS%20(1)%20--%20AWS%20Introduction%20(Training%20video%201).mp4"
+            },
+            {
+                "title":"Ec2 introduction,launch linux,windoows,iis webserver config",
+                "videourl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/training-video/aws-sa-associate/AWS%20(2)-EC2-Introduction,%20Launching%20Windows%20Intance,%20IIS%20webservr%20Conf(Training%20video%20-2).mp4"
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            }
+            
+    ]
+  }

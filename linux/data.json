@@ -1,0 +1,249 @@
+{
+  
+   "awscourse":[ 
+    {
+          "title":"Linux Introduction",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/linux/01)Linux+Introduction.pdf",
+          "description":"(Linux Introduction)"
+    },
+	{
+      "title": "Basic Commands",
+      "fileurl": "https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/linux/02)Basic+commands.pdf",
+	  "description": "(start with commands)"
+    },
+	    {
+          "title":"Hard Link Soft Link",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/linux/04)+Hard+Link+Soft+Link.pdf",
+          "description":"(Linking of Files)"
+    },
+     {
+      "title": " Compression Decompression",
+      "fileurl": "https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/04)EC2-Instance.pdf",
+	  "description": "(Zipping and Unzipping)"
+    },
+     {
+      "title": "User and Group",
+      "fileurl": "https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/linux/05)+User+and+Group.pdf",
+      "description": "(Managed Users and group)"
+    },
+     {
+      "title": "kernel and Shell",
+      "fileurl": "https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/05)EC2-ELB.pdf",
+      "description": "(Core part of OS)"
+    },
+     {
+      "title": "Securing Files",
+      "fileurl": "https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/06)EC2-Autoscaling.pdf",
+      "description": "(Chmod, Chown, ACL)"
+    },
+      {
+          "title":"Booting Process",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/10)Elasticbean-stalk.pdf",
+          "description":"(Steps involved in booting)"
+    },
+       
+      {
+          "title":"Root and Grub Password",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/08)S3.pdf",
+          "description":"(Securing OS with authentication)"
+    },
+        {
+          "title":"Runlevel",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/14)EFS.pdf",
+          "description":"(Runlevel,inittab,systemd)"
+    },    
+        {
+          "title":"RPM and YUM",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/16)RDS.pdf",
+          "description":"(Managing package installation)"
+    },  
+          {
+          "title":"KVM and Dual Desktop",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/17)Dynamodb.pdf",
+          "description":"(Linux Virtualisation)"
+    }, 
+            {
+          "title":"LVM",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/linux/09)+LVM.pdf",
+          "description":"(Logical Volume Manager)"
+    },  
+          {
+          "title":"RAID",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/linux/10)+RAID.pdf",
+          "description":"(Storage with Backup)"
+    },  
+          {
+          "title":"Shell Scripting",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/22)Route53.pdf",
+          "description":"(Writing code in linux)"
+    },   
+            {
+          "title":"Crontab",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/linux/11)+Crontab.pdf",
+          "description":"(Scheduling Task)"
+    },   
+          {
+          "title":"IP Addressing",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/IP+Address.pdf",
+          "description":"(IP Addressing)"
+    },   
+        {
+          "title":"SCP and SSH",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/09)IAM.pdf",
+          "description":"(Copying files and Connectivity)"
+    },   
+          {
+          "title":"YUM Server-YUM Client",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/13)SNS.pdf",
+          "description":"(Package Installation)"
+    },
+	    {
+          "title":"HTTP and FTP",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/18)Lambda.pdf",
+          "description":"(Apache Web Server and FTP)"
+    },
+	    {
+          "title":"DHCP and DNS",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/11)Lightsail.pdf",
+          "description":"(DHCP and DNS)"
+    },
+          {
+          "title":"NFS and Samba",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/21)SQS.pdf",
+          "description":"(File Sharing)"
+    },  
+        {
+          "title":"Firewall",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/23)Shell-Script.pdf",
+          "description":"(Firewall)"
+    },   
+        {
+          "title":"Ansible",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/25)AWS-CLI.pdf",
+          "description":"(Managing Multiple Server)"
+    }, 
+        {
+          "title":"NIC Bonding",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/24)Practice-Set.pdf",
+          "description":"(NIC Teaming)"
+    },
+      {
+          "title":"Squid",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/IP+address+test(MCQ).pdf",
+          "description":"(Managing Internet Connection )"
+    },
+	  {
+          "title":"MariaDB and Tomcat Server",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/AWS+Multiple+choice+Question+Set-1.pdf",
+          "description":"(DB and WebServer)"
+    },   
+	{
+          "title":"Cockpit",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/AWS+exam+dumps-1.pdf",
+          "description":"(Managing resource from single console)"
+    }, 
+    {
+          "title":"Nagios",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/AWS+exam+dumps-1.pdf",
+          "description":"(Monitoring Tool)"
+    }, 
+    {
+          "title":"RHEL6 Vs RHEL 7",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/linux/25)+RHEL-6+vs+RHEL-7.pdf",
+          "description":"(Differences)"
+    }
+
+    ],
+
+    "awsvideos":[
+            {
+                "title":"Devops Introduction",
+                "videourl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/01)Devops-Introduction.mp4"
+            },
+            {
+                "title":"Aws Introduction",
+                "videourl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/training-video/aws-sa-associate/AWS%20(1)%20--%20AWS%20Introduction%20(Training%20video%201).mp4"
+            },
+            {
+                "title":"Ec2 introduction,launch linux,windoows,iis webserver config",
+                "videourl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/training-video/aws-sa-associate/AWS%20(2)-EC2-Introduction,%20Launching%20Windows%20Intance,%20IIS%20webservr%20Conf(Training%20video%20-2).mp4"
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            }
+            
+    ]
+  }

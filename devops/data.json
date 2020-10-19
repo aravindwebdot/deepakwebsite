@@ -1,0 +1,256 @@
+{
+  
+   "awscourse":[ 
+    {
+          "title":"Devops-Introduction",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/01)Devops-Introduction.pdf",
+          "description":"(Deveops Introduction)"
+    },
+	{
+      "title": "Configuration-management",
+      "fileurl": "https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/02)Configuration-management.pdf",
+	  "description": "(Manage Infrastructure)"
+    },
+	    {
+          "title":"Ansible",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/03)Ansible.pdf",
+          "description":"(Configuration management tool)"
+    },
+     {
+      "title": "Ansible-playbook",
+      "fileurl": "https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/04)+Ansible-playbook.pdf",
+	  "description": "(Script writing in Ansible)"
+    },
+     {
+      "title": "Nagios",
+      "fileurl": "https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/05)+Nagios.pdf",
+      "description": "(Monitoring Tool)"
+    },
+     {
+      "title": "Git",
+      "fileurl": "https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/06)+Git.pdf",
+      "description": "(Source Code management)"
+    },
+     {
+      "title": "Docker Introduction",
+      "fileurl": "https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/07)+Docker+Introduction.pdf",
+      "description": "(Container Service)"
+    },
+      {
+          "title":"Docker Operation",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/08)+Docker+Operation.pdf",
+          "description":"(Installation and operation)"
+    },
+       
+      {
+          "title":"Dockerfile practise",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/09)+Dockerfile+practise.pdf",
+          "description":"(Creating Custom Image)"
+    },
+        {
+          "title":"Docker Storage",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/10)+Docker+Storage.pdf",
+          "description":"(Temp to Permanenet Storage)"
+    },    
+        {
+          "title":"Docker Compose-1",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/11)+Docker+Compose-1.pdf",
+          "description":"(Microservices)"
+    },  
+          {
+          "title":"Docker Compose-2",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/12+)Docker+Compose-2.pdf",
+          "description":"(Microservices)"
+    }, 
+
+  {
+          "title":"Docker Compose-2(Doc file)",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/12+)Docker+Compose-2.docx",
+          "description":"(Microservices)"
+    },
+            {
+          "title":"Docker Swarm",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/13)+Docker+Swarm.pdf",
+          "description":"(Docker Networking)"
+    },  
+          {
+          "title":"Docker Windows-1",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/14)+Docker+Windows-1.pdf",
+          "description":"(Docker for Windows)"
+    },  
+          {
+          "title":"Docker Windows-2",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/15)+Docker+Windows-2.pdf",
+          "description":"(Docker for Windows)"
+    },   
+            {
+          "title":"Docker Security",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/16)Docker+Security.pdf",
+          "description":"(Securing the containers)"
+    },   
+          {
+          "title":"Jenkin-1(git-Jenkin-Docker)",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/17)+Jenkins(git-jenkin-docker).pdf",
+          "description":"(Introduction + configuration)"
+    },   
+        {
+          "title":"Jenkin-2( git-jenkin-ansible-tomcat)",
+          "fileurl":"",
+          "description":"(Upcoming)"
+    },   
+          {
+          "title":"Chef",
+          "fileurl":"",
+          "description":"(Upcoming)"
+    },
+	    {
+          "title":"Terraform",
+          "fileurl":"",
+          "description":"(IaaC)"
+    },
+	    {
+          "title":"Puppet Introduction",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/21)+Puppet.pdf",
+          "description":"(Puppet Introduction)"
+    },
+          {
+          "title":"Bitbucket",
+          "fileurl":"",
+          "description":"(Source Code Management)"
+    },  
+        {
+          "title":"Devops interview Quetions",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/Devops+%2B+Linux+Interview+Questions.pdf",
+          "description":"(Devops + AWS + Linux)"
+    },
+    {
+      "title": "Kubernetes Interview Questions ",
+      "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/testpaper/Kubernete+Interview+Questions.pdf",
+          "description": "(Begineers, Intermediate, Advanced)"
+    },
+    {
+      "title": "Docker Interview Questions ",
+      "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/testpaper/Docker+Interview+Questions.pdf",
+          "description": "(Begineers, Intermediate, Advanced)"
+    },
+   
+        {
+          "title":"Upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/25)AWS-CLI.pdf",
+          "description":"(CLI Operation)"
+    }, 
+        {
+          "title":"Upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/24)Practice-Set.pdf",
+          "description":"(Exercise)"
+    },
+      {
+          "title":"Upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/IP+address+test(MCQ).pdf",
+          "description":"(IP Addressing)"
+    },
+	  {
+          "title":"Upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/AWS+Multiple+choice+Question+Set-1.pdf",
+          "description":"(AWS Introduction)"
+    },   
+	{
+          "title":"Upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/AWS+exam+dumps-1.pdf",
+          "description":"(AWS Dumps)"
+    } 
+    
+    ],
+
+    "awsvideos":[
+            {
+                "title":"Devops Introduction",
+                "videourl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/training-video/devops/Devops-Introduction.mp4"
+            },
+            {
+                "title":"Ansible-1",
+                "videourl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/training-video/devops/Devops--Ansible+Part+1.mp4"
+            },
+            {
+                "title":"Ec2 introduction,launch linux,windoows,iis webserver config",
+                "videourl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/training-video/aws-sa-associate/AWS%20(2)-EC2-Introduction,%20Launching%20Windows%20Intance,%20IIS%20webservr%20Conf(Training%20video%20-2).mp4"
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            }
+            
+    ]
+  }

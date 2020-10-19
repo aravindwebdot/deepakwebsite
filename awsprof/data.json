@@ -1,0 +1,256 @@
+{
+  
+   "awscourse":[ 
+    {
+          "title":"AWS SA professional Syllabus",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-prof/AWS+solution+Architect+Professional+(Oct+2020+).pdf",
+          "description":"(Syllabus)"
+    },
+{
+          "title":"AWS Syops Administrator Syllabus",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-prof/AWS+Sysops+Administrator+(+Oct+2020).pdf ",
+          "description":"(Syllabus)"
+    },
+
+	{
+      "title": "VPC",
+      "fileurl": "https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-prof/01)+VPC.pdf",
+	  "description": "(VPC in Detail)"
+    },
+	    {
+          "title":"VPN",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-prof/02)+VPN+in+VPC.pdf",
+          "description":"(Remote Access and Site to Site)"
+    },
+     {
+      "title": "MFA in S3 Bucket",
+      "fileurl": " ",
+	  "description": "(Two step verification)"
+    },
+     {
+      "title": "AWS AD-Workspace-Workdocs",
+      "fileurl": "https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-prof/05)+AWS+AD%2C+Workspace%2CWorkdocs.pdf ",
+      "description": "(AWS Application Integration)"
+    },
+     {
+      "title": "AWS AD",
+      "fileurl": " ",
+      "description": "(AWS Directory Service)"
+    },
+     {
+      "title": "Direct Connect",
+      "fileurl": " ",
+      "description": "(Direct Connect)"
+    },
+      {
+          "title":"Bucket Policy",
+          "fileurl":" ",
+          "description":"(Policy and ACL)"
+    },
+       
+      {
+          "title":"CloudTrial",
+          "fileurl":" ",
+          "description":"(Collecting Log)"
+    },
+        {
+          "title":"Migration",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-prof/09)+Migration.pdf",
+          "description":"(DB and Instance Migration)"
+    },    
+        {
+          "title":"High Availiblity",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-prof/10)+High+Availiblity.pdf",
+          "description":"(Zero downtime)"
+    },  
+          {
+          "title":"Disaster Recovery",
+          "fileurl":"  ",
+          "description":"(Geo Location Protection)"
+    }, 
+            {
+          "title":"Amazon kinesis",
+          "fileurl":" ",
+          "description":"(Data Streaming and Analytics)"
+    },  
+          {
+          "title":"Elastic Transcoder",
+          "fileurl":" ",
+          "description":"(Changing media Files)"
+    },  
+          {
+          "title":"Elasticache",
+          "fileurl":" ",
+          "description":"(Elasticache)"
+    },   
+            {
+          "title":"Redshift",
+          "fileurl":" ",
+          "description":"(Data Warehouse)"
+    },   
+          {
+          "title":"Snowball",
+          "fileurl":" ",
+          "description":"(Snowball)"
+    },   
+          {
+          "title":"AWS Trusted Advisor",
+          "fileurl":" ",
+          "description":"(Optimising AWS infrastructure)"
+    },
+
+        {
+          "title":"Troubleshooting",
+          "fileurl":" ",
+          "description":"(Real time issues)"
+    },   
+          {
+          "title":"Test paper-1",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-prof/AWS+SA+Prof.+Dumps.pdf ",
+          "description":"(Dumps paper-1)"
+    },
+	    {
+          "title":"upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/18)Lambda.pdf",
+          "description":"(upcoming)"
+    },
+	    {
+          "title":"upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/11)Lightsail.pdf",
+          "description":"(upcoming)"
+    },
+          {
+          "title":"upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/21)SQS.pdf",
+          "description":"(upcoming)"
+    },  
+        {
+          "title":"Script",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/23)Shell-Script.pdf",
+          "description":"(upcoming)"
+    },   
+        {
+          "title":"upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/25)AWS-CLI.pdf",
+          "description":"(upcoming)"
+    }, 
+        {
+          "title":"upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/24)Practice-Set.pdf",
+          "description":"(upcoming)"
+    },
+      {
+          "title":"upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/azure/IP+Address.pdf",
+          "description":"(upcoming)"
+    },
+	  {
+          "title":"upcoming",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/IP+address+test(MCQ).pdf",
+          "description":"(upcoming)"
+    },
+	  {
+          "title":"Dumps paper-1",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/AWS+Multiple+choice+Question+Set-1.pdf",
+          "description":"(Dumps paper-1)"
+    },   
+	{
+          "title":"Dumps paper-2",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/AWS+exam+dumps-1.pdf",
+          "description":"(Dumps paper-2)"
+    } 
+    
+    ],
+
+    "awsvideos":[
+            {
+                "title":"Devops Introduction",
+                "videourl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/01)Devops-Introduction.mp4"
+            },
+            {
+                "title":"Aws Introduction",
+                "videourl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/training-video/aws-sa-associate/AWS%20(1)%20--%20AWS%20Introduction%20(Training%20video%201).mp4"
+            },
+            {
+                "title":"Ec2 introduction,launch linux,windoows,iis webserver config",
+                "videourl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/training-video/aws-sa-associate/AWS%20(2)-EC2-Introduction,%20Launching%20Windows%20Intance,%20IIS%20webservr%20Conf(Training%20video%20-2).mp4"
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            }
+            
+    ]
+  }
