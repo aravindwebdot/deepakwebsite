@@ -173,7 +173,7 @@
                         $("#jsondata").append("<div class='col-lg-4 mt-4'>" + "<div class='card text-center' style=''>" + "<div class='card-img-top' style='background-image:url(./assets/img/devopscover.png)'></div>" + "<div class='card-body'>" + "<div class='card-title'>" + "<h5>" + value.title + "</h5>" + "<div class='card-text text-wrap'> " + value.description + "</div><div class='mybuton mt-3'>" + "<a href=" + value.fileurl + " target='_blank'  class='btn btn-primary'>Download PDF</a>" + "</div>" + "</div>" + "</div>" + "</div>" + "</div>" + "</div>");
                     });
                     $(data.awsvideos).each(function(index, value) {
-                        $("#jsondata_video").append("<div class='col-lg-4 mt-4'>" + "<div class='card text-center' style=''>" + "<div class='card-img-top'></div>" + "<div class='card-body'>" + "<div class='card-title'>" + "<h5>" + value.title + "</h5>" + "<div class='card-text text-wrap'> " + value.description + "</div><div class='mybuton mt-3'>" + "<a href=" + value.fileurl + " target='_blank'  class='btn btn-primary'>Download video</a>" + "</div>" + "</div>" + "</div>" + "</div>" + "</div>" + "</div>");
+                        $("#jsondata_video").append("<div class='col-lg-4 mt-4'>" + "<div class='card text-center' style=''>" + "<div class='card-img-top'></div>" + "<div class='card-body'>" + "<div class='card-title'>" + "<h5>" + value.title + "</h5>" + "<div class='card-text text-wrap'> " + "videofile" + "</div><div class='mybuton mt-3'>" + "<a href=" + value.videourl + " target='_blank'  class='btn btn-primary'>Download video</a>" + "</div>" + "</div>" + "</div>" + "</div>" + "</div>" + "</div>");
                     });
 
                 }
